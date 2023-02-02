@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Ian
 
-🎵 Music Licensor turned 💻 Fullstck Developer - App Academy Nov 2022 
+🎵 Music Licensor turned 💻 Fullstack Software Engineer - App Academy Nov 2022 
 
 ## My Featured Projects:
 👫 [OnlyFriends](https://onlyfriends24.herokuapp.com/) 👫
