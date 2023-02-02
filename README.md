@@ -3,7 +3,6 @@
 Music Licensor turned Fullstck Developer - App Academy Nov 2022 
 
 ## My Featured Projects:
-[![Uploading image.png…]()
 [👫 OnlyFriends 👫](https://onlyfriends24.herokuapp.com/)
 
 Full-stack Facebook clone where users can create a profile, login/logout, + send posts, likes, comments, and friend requests
