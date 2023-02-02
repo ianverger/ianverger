@@ -1,5 +1,13 @@
 ### Hello World 👋 I'm Ian
 
+Music Licensor turned Fullstck Developer - App Academy Nov 2022 
+
+## My Featured Projects:
+[OnlyFriends](https://onlyfriends24.herokuapp.com/)
+
+[What's the vibe tn?](https://ianverger.github.io/Whats-the-vibe-tn/)
+
+[Allora](https://allora.onrender.com/)
 <!--
 **ianverger/ianverger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
