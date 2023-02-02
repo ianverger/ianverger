@@ -1,13 +1,13 @@
 ### Hello World 👋 I'm Ian
 
-🎵 Music Licensor turned 💻 Fullstack Software Engineer - App Academy Nov 2022 
+🎵 Music Licensor turned 💻 Fullstack Software Engineer - App Academy Nov 2022 ✨
 
 ## My Featured Projects:
 👫 [OnlyFriends](https://onlyfriends24.herokuapp.com/) 👫
 
 Full-stack Facebook clone where users can create a profile, login/logout, + send posts, likes, comments, and friend requests
 
-✨ [What's the vibe tn?](https://ianverger.github.io/Whats-the-vibe-tn/) ✨
+🍸 [What's the vibe tn?](https://ianverger.github.io/Whats-the-vibe-tn/) 🍸
 
 Interactive data visualization of bars, clubs, and lounges in lower Manhattan and north Brooklyn
 
