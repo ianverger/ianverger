@@ -2,7 +2,7 @@
 
 🎵 Music Licensor turned 💻 Fullstack Software Engineer - App Academy Nov 2022 ✨
 
-- 🔭 I’m currently working on rebuilding the website for Five Leaves Restaurant in Brooklyn, NY.
+- 🔭 I’m just completed working on rebuilding the website for Five Leaves Restaurant in Brooklyn, NY.
 - 🌱 I’m currently learning DS&A.
 - 👯 I’m looking to collaborate on building out new and interesting web applications. Email me!
 
