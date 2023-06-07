@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Iann
+### Hello World 👋 I'm Ian
 
 🎵 Music Licensor turned 💻 Fullstack Software Engineer - App Academy Nov 2022 ✨
 
