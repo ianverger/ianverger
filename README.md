@@ -20,7 +20,7 @@ Interactive data visualization of bars, clubs, and lounges in lower Manhattan an
 Collaborative travel app where users can interact with friends in order to plan and commemorate trips across the globe
 
 ## Tech Stack
-React · Redux · JavaScript · Express.js · Ruby on Rails · PostgreSQL · MongoDB · HTML · CSS · AWS S3
+React · Redux · JavaScript · Express.js · Ruby on Rails · PostgreSQL · PHP · MySQL · MongoDB · HTML · CSS · AWS S3
 
 ## Hire Me!
 [LinkedIn](https://www.linkedin.com/in/ian-verger-02067951/)
