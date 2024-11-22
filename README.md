@@ -1,9 +1,8 @@
 ### Hello World 👋 I'm Ian
 
-🎵 Music Licensor turned 💻 Fullstack Software Engineer - App Academy Nov 2022 ✨
+💻 Fullstack Software Engineer ✨
 
-- 🔭 I’m just completed working on rebuilding the website for Five Leaves Restaurant in Brooklyn, NY.
-- 🌱 I’m currently learning DS&A.
+- 🔭 Associate Full Stack Developer at Betterhelp
 - 👯 I’m looking to collaborate on building out new and interesting web applications. Email me!
 
 ## My Featured Projects:
